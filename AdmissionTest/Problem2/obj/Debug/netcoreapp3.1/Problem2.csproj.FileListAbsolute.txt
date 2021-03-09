@@ -1,0 +1,13 @@
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\bin\Debug\netcoreapp3.1\Problem2.exe
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\bin\Debug\netcoreapp3.1\Problem2.deps.json
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\bin\Debug\netcoreapp3.1\Problem2.runtimeconfig.json
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\bin\Debug\netcoreapp3.1\Problem2.runtimeconfig.dev.json
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\bin\Debug\netcoreapp3.1\Problem2.dll
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\bin\Debug\netcoreapp3.1\Problem2.pdb
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\obj\Debug\netcoreapp3.1\Problem2.csprojAssemblyReference.cache
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfoInputs.cache
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfo.cs
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\obj\Debug\netcoreapp3.1\Problem2.csproj.CoreCompileInputs.cache
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\obj\Debug\netcoreapp3.1\Problem2.dll
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\obj\Debug\netcoreapp3.1\Problem2.pdb
+D:\Exam\Devskill-Exam\AdmissionTest\Problem2\obj\Debug\netcoreapp3.1\Problem2.genruntimeconfig.cache
