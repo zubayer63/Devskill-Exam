@@ -5,9 +5,9 @@ namespace Problem6
     class Program
     {
         
-        public void MyWork(Func<int, int> logic)
+        public int MyWork(Func<int, int> logic)
         {
-
+            return 1;
         }
 
         
