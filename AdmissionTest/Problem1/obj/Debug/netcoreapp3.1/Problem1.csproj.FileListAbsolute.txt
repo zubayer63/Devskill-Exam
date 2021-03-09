@@ -1,0 +1,12 @@
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\bin\Debug\netcoreapp3.1\Problem1.exe
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\bin\Debug\netcoreapp3.1\Problem1.deps.json
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.json
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.dev.json
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\bin\Debug\netcoreapp3.1\Problem1.dll
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\bin\Debug\netcoreapp3.1\Problem1.pdb
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfoInputs.cache
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfo.cs
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\obj\Debug\netcoreapp3.1\Problem1.csproj.CoreCompileInputs.cache
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\obj\Debug\netcoreapp3.1\Problem1.dll
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\obj\Debug\netcoreapp3.1\Problem1.pdb
+D:\Exam\Devskill-Exam\AdmissionTest\Problem1\obj\Debug\netcoreapp3.1\Problem1.genruntimeconfig.cache
